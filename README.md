@@ -1,3 +1,4 @@
+
 # Library Management System
 
 This is a simple **Library Management System** implemented in Java. The system allows users to:
@@ -20,7 +21,7 @@ This is a simple **Library Management System** implemented in Java. The system a
 1. **Clone the repository** or **download the code**.
 2. Open a terminal or command prompt.
 3. Compile the Java file:
-   
+   ```bash
    javac LibraryManagementSystem.java
    ```
 4. Run the compiled Java program:
@@ -60,7 +61,7 @@ This is the main class that runs the Library Management System program. It inter
 
 ## Example Usage
 
-
+```bash
 ----- Library Management System -----
 1. Display Available Books
 2. Borrow a Book
@@ -97,5 +98,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 5. **Classes Overview**: Describes the classes used in the program and their key methods.
 6. **Example Usage**: Shows how the program works when executed.
 7. **License**: A typical MIT license section for open source projects.
-
-This README should help users understand how to use and interact with the Library Management System.
