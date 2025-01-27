@@ -88,7 +88,7 @@ Exiting the program...
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-```
+
 
 ### Explanation:
 1. **Project Overview**: Brief description of what the project does.
